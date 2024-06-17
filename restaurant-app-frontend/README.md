@@ -1,4 +1,4 @@
-# restaurant-app
+# restaurant-app-frontend
 
 ## Project setup
 ```
